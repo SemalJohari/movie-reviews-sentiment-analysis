@@ -1,0 +1,7 @@
+pandas
+sklearn
+pickle
+streamlit
+matplotlib
+nltk
+wordcloud
